@@ -1,2 +1,2 @@
-# IBM_data_science_pro
-Course Final Project
+# Projeto final do curso IBM Data Science 
+
